@@ -1,0 +1,5 @@
+C:\Users\Inventor\Aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\HelloAula.dll
+C:\Users\Inventor\Aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\nunit.framework.dll
+C:\Users\Inventor\Aula\primeri.csharp.terminal\HelloAula\HelloAula\bin\Release\nunit.framework.xml
+C:\Users\Inventor\Aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\Release\HelloAula.csprojResolveAssemblyReference.cache
+C:\Users\Inventor\Aula\primeri.csharp.terminal\HelloAula\HelloAula\obj\Release\HelloAula.dll
