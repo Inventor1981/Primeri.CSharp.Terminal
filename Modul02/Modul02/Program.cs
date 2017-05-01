@@ -7,17 +7,15 @@ namespace Modul02
 		public static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			//Дефиниране на променливи
 
 
 
+			//Събиране на числа
 
-			//Примерен коментар
 
-			/*
-			 Ред 1
-			 Ред 2
-			 Ред 3
-			 */
+
+			//Писане в конзола
 		}
 	}
 }
